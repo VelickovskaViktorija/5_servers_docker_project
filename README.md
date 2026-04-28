@@ -2,10 +2,8 @@ price_prediction.png = > се добива од Data Analysis Service.
 
 http://localhost:5000/  = > Data Visualization Service,  raboti koga se vkluceni services
 
-*warning => mozni se 'outdated' ceni poradi API KEY-ot, ne mozev da zemam nov key for free...
+*warning => mozni se 'outdated' ceni poradi API KEY-ot
 
-*gi nemam hostirano, bidejkji ne mozev for free na nitu edna platforma, probav na nekolku platformi kako: Microsoft Azure, AWS , Render i drugi, 
-no bara da se koristi platena verzija za celosno hostiranje.
 
 objasnuvanje okolu videata za podobro snaogjanje:
 
