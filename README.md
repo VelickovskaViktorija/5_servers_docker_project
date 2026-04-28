@@ -20,7 +20,7 @@ price_prediction.png                             = > се добива од Data
 
 domasna_5 - App - Docker Desktop 2025-03-27 00-02-51.mp4            => snimka od Docker
 
-*dokolku e potrebno mozam da snimam edno celosno video, i da go ispratam po mail dokolku ovie ne se dovolno jasni i pregledni.
+
 
 
 # Domashna_5
